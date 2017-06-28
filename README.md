@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # File-upload-Angular2-Nodejs
 File upload with angular 2 and node.js
 
@@ -17,3 +18,7 @@ File upload with angular 2 and node.js
 Once both applicatons are running you should be able to upload the files.
 - <a href="https://code.ciphertrick.com/2016/10/24/file-upload-with-angular2-nodejs/">Tutorial.</a><br>
 - <a href="https://www.youtube.com/watch?v=nUL_zNh7TE0&feature=youtu.be">Demo.</a>
+=======
+# node-angular-file-upload
+File Upload App
+>>>>>>> 13c73585b5270102341943365f536c9c2f143232
